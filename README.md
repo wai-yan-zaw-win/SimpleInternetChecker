@@ -7,7 +7,7 @@ This package contains simple drag and drop internet connection checker for Unity
 It is pretty simple actually. 
 Just drag and drop SimpleInternetChecker Prefab from HarioGames/Examples/Prefabs/ .
 
-![Prefab Image](https://imgur.com/gallery/FEYOjw9)
+<img src="https://imgur.com/gallery/FEYOjw9" alt="Prefab Image">
 
 ## Checking Conditions
 
